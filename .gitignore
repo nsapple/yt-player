@@ -1,0 +1,8 @@
+node_modules/
+*.mp4
+temp_*.mp4
+cookies.txt
+.env
+.DS_Store
+npm-debug.log
+yarn-error.log
