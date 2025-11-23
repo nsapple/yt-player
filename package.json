@@ -1,6 +1,7 @@
 {
   "name": "yt-server",
   "version": "1.0.0",
+  "type": "module",
   "description": "YouTube video downloader server with yt-dlp",
   "main": "server.js",
   "scripts": {
